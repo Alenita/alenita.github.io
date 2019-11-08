@@ -1,2 +1,5 @@
-# breathtaking-validation
-try to do it by RegEx
+# Form validation
+Учебный проект создан для тренировки использования регулярных выражений.
+Формы на странице валидируются через HTML-аттрибут pattern. 
+Последняя актуальная версия проекта сохранена в метке  v6.4.
+Развернуть проект можно по <a href = "https://alenita.github.io/formvalidation.github.io/">ссылке</a>
